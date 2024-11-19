@@ -21,7 +21,8 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
-## Tampilan Laravel-Filament
+## Tampilan Laravel-Filament Sederhana
+
 ![Screenshot (282)](https://github.com/user-attachments/assets/bbcc53dd-ae81-43e9-b4ce-4d12fe290490)
 ![Screenshot (283)](https://github.com/user-attachments/assets/59cfe0b5-3e47-476b-ad8d-529cc3bedffa)
 ![Screenshot (280)](https://github.com/user-attachments/assets/02733d5e-94d9-4a97-99ed-3041fbbb1521)
